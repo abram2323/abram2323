@@ -1,4 +1,4 @@
-<h2 align="left">Ey, aquí Víctor, gracias por pasarte 👑🌹</h2>
+<h2 align="left">Buenas, bienvenidos a mi GitHub :)</h2>
 
 ###
 
@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:victornievezzz@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/abraham-p%C3%A9rez-serrudo-1598391b1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/v%C3%ADctor-nieves-briones-1b22bb331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
