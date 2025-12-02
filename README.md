@@ -1,53 +1,79 @@
-<h2 align="left">Buenas, bienvenidos a mi GitHub :)</h2>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BM0zZz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BM0zZz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:BF6CFF&height=160&text=Hi,%20I'm%20abram2323&fontSize=55&fontColor=F9F4FF&fontAlignY=45&animation=twinkling&desc=Programmer%20%|%20Problem%20Solver&descSize=28&descAlignY=85&section=header" />
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/221/221186.gif"  />
+### ⚡Code Addict
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/abraham-p%C3%A9rez-serrudo-1598391b1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+### 🧠 Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,cs,js,html,css,php,mysql&theme=light&perline=10" />
   </a>
-  <a href="https://www.linkedin.com/in/v%C3%ADctor-nieves-briones-1b22bb331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</p>
+
+---
+
+### 🛠️ Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,eclipse,git,github&theme=light&perline=8" />
   </a>
+</p>
+
+---
+
+### 💡 About Me
+🧬 Passionate about **low-level programming & algorithms**  
+⚙️ Into **systems, problem solving, reverse engineering**  
+🏫 Preparing for **Job**  
+💾 Loves **terminal, dark themes, logic & minimal code**
+
+---
+
+### 📊 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=abram2323&show_icons=true&title_color=BF6CFF&icon_color=7F00FF&text_color=FFFFFF&bg_color=0,000000,0A000F&border_color=7F00FF&border_radius=10&hide_border=false" height="170em"/>
+
+<img src="https://streak-stats.demolab.com?user=abram2323&theme=dark&hide_border=false&background=0,000000,0A000F&currStreakLabel=FFFFFF&ring=7F00FF&fire=FF4500&sideLabels=FFFFFF" height="170em"/>
+
+---
+
+### 🧩 Most Used Languages & Top Repos
+
+<p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abram2323&layout=compact&langs_count=8&title_color=BF6CFF&text_color=FFFFFF&bg_color=0,000000,0A000F&border_color=7F00FF&hide_border=false&custom_title=Most%20Used%20Languages" height="170em" />
+
+<img src="https://github-contributor-stats.vercel.app/api?username=abram2323&limit=5&combine_all_yearly_contributions=true&title_color=BF6CFF&text_color=FFFFFF&bg_color=0,000000,0A000F&border_color=7F00FF&hide_border=false&custom_title=Top%20Contributed%20Repos" height="170em" />
+
+
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0:7F00FF,100:000000&border_color=BF6CFF&text_color=FFFFFF" />
+</p>
+
+💡 _"A good programmer looks both ways before crossing a one-way street."_  
+
+---
+
+### 📬 Connect with Me  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gmail,linkedin&theme=light&perline=10" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/abram2323">
+    <img src="https://komarev.com/ghpvc/?username=abram2323&color=7F00FF&label=Profile%20Views" />
+  </a>
+  <a href="https://github.com/abram2323">
+    <img src="https://img.shields.io/github/followers/abram2323?label=GitHub%20Followers&color=7F00FF&style=flat" />
+  </a>
+</p>
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/BM0zZz/BM0zZz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=BM0zZz.BM0zZz&"  />
-</div>
-
-###
