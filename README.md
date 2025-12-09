@@ -25,9 +25,8 @@
 
 ### 💡 About Me
 🧬 Passionate about **low-level programming & algorithms**  
-⚙️ Into **systems, problem solving, reverse engineering**  
+⚙️ Into **systems, problem solving**  
 🏫 Preparing for **Job**  
-💾 Loves **terminal, dark themes, logic & minimal code**
 
 ---
 
